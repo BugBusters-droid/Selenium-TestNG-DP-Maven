@@ -1,5 +1,8 @@
 package dataprovider.io.test;
 
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeMethod;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -12,7 +15,7 @@ import org.testng.annotations.Test;
 
 import io.util.testdata.TestDataUtilityClass;
 
-public class DataproviderCheck {
+public class DataproviderCheck1 {
 	
 	WebDriver driver;
 	
@@ -20,6 +23,7 @@ public class DataproviderCheck {
 	{
 		System.setProperty("webdriver.chrome.driver", "/home/qapitol/chromedriver");
 	}
+	
 	
 	
 	@BeforeMethod
@@ -50,6 +54,7 @@ public class DataproviderCheck {
 		driver.findElement(By.name("Submit")).click();
 		
 	}
+	
 	
 	@AfterMethod()
 	public void tearDown()
