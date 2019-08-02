@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dataprovider.io.test.DataproviderCheck">
+      <class name="dataprovider.io.test.DataproviderCheck1">
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
           <include name="login"/>
         </methods>
-      </class> <!-- dataprovider.io.test.DataproviderCheck -->
+      </class> <!-- dataprovider.io.test.DataproviderCheck1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
