@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11854" started-at="2019-08-02T08:11:08Z" finished-at="2019-08-02T08:11:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11854" started-at="2019-08-02T08:11:08Z" finished-at="2019-08-02T08:11:20Z">
+      <class name="dataprovider.io.test.DataproviderCheck">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="setUp" is-config="true" duration-ms="2296" started-at="2019-08-02T08:11:09Z" finished-at="2019-08-02T08:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="login" duration-ms="361" started-at="2019-08-02T08:11:11Z" data-provider="getTestData" finished-at="2019-08-02T08:11:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bug_busters]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[djfkjd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="tearDown" is-config="true" duration-ms="86" started-at="2019-08-02T08:11:11Z" finished-at="2019-08-02T08:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="setUp" is-config="true" duration-ms="1429" started-at="2019-08-02T08:11:11Z" finished-at="2019-08-02T08:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="login" duration-ms="291" started-at="2019-08-02T08:11:13Z" data-provider="getTestData" finished-at="2019-08-02T08:11:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bugbusters]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jnddj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="tearDown" is-config="true" duration-ms="138" started-at="2019-08-02T08:11:13Z" finished-at="2019-08-02T08:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="setUp" is-config="true" duration-ms="1570" started-at="2019-08-02T08:11:13Z" finished-at="2019-08-02T08:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="login" duration-ms="383" started-at="2019-08-02T08:11:15Z" data-provider="getTestData" finished-at="2019-08-02T08:11:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bug_busters]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfdddf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="tearDown" is-config="true" duration-ms="75" started-at="2019-08-02T08:11:15Z" finished-at="2019-08-02T08:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="setUp" is-config="true" duration-ms="1506" started-at="2019-08-02T08:11:15Z" finished-at="2019-08-02T08:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="login" duration-ms="397" started-at="2019-08-02T08:11:17Z" data-provider="getTestData" finished-at="2019-08-02T08:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bug_busters]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[venky@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="tearDown" is-config="true" duration-ms="78" started-at="2019-08-02T08:11:17Z" finished-at="2019-08-02T08:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="setUp" is-config="true" duration-ms="1581" started-at="2019-08-02T08:11:17Z" finished-at="2019-08-02T08:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="login" duration-ms="760" started-at="2019-08-02T08:11:19Z" data-provider="getTestData" finished-at="2019-08-02T08:11:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bug_busters]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[prince@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck@5e5792a0]" name="tearDown" is-config="true" duration-ms="419" started-at="2019-08-02T08:11:20Z" finished-at="2019-08-02T08:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataprovider.io.test.DataproviderCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
