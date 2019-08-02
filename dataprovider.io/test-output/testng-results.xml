@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15484" started-at="2019-08-02T09:50:34Z" finished-at="2019-08-02T09:50:50Z">
+  <suite name="Suite" duration-ms="12053" started-at="2019-08-02T10:43:39Z" finished-at="2019-08-02T10:43:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15484" started-at="2019-08-02T09:50:34Z" finished-at="2019-08-02T09:50:50Z">
+    <test name="Test" duration-ms="12053" started-at="2019-08-02T10:43:39Z" finished-at="2019-08-02T10:43:51Z">
       <class name="dataprovider.io.test.DataproviderCheck1">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="5879" started-at="2019-08-02T09:50:35Z" finished-at="2019-08-02T09:50:40Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="2197" started-at="2019-08-02T10:43:40Z" finished-at="2019-08-02T10:43:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="537" started-at="2019-08-02T09:50:40Z" data-provider="getTestData" finished-at="2019-08-02T09:50:41Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="439" started-at="2019-08-02T10:43:42Z" data-provider="getTestData" finished-at="2019-08-02T10:43:42Z">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="163" started-at="2019-08-02T09:50:41Z" finished-at="2019-08-02T09:50:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="245" started-at="2019-08-02T10:43:42Z" finished-at="2019-08-02T10:43:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1438" started-at="2019-08-02T09:50:41Z" finished-at="2019-08-02T09:50:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1452" started-at="2019-08-02T10:43:43Z" finished-at="2019-08-02T10:43:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="344" started-at="2019-08-02T09:50:43Z" data-provider="getTestData" finished-at="2019-08-02T09:50:43Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="347" started-at="2019-08-02T10:43:44Z" data-provider="getTestData" finished-at="2019-08-02T10:43:44Z">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="215" started-at="2019-08-02T09:50:43Z" finished-at="2019-08-02T09:50:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="75" started-at="2019-08-02T10:43:44Z" finished-at="2019-08-02T10:43:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1513" started-at="2019-08-02T09:50:43Z" finished-at="2019-08-02T09:50:45Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1551" started-at="2019-08-02T10:43:45Z" finished-at="2019-08-02T10:43:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="374" started-at="2019-08-02T09:50:45Z" data-provider="getTestData" finished-at="2019-08-02T09:50:45Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="410" started-at="2019-08-02T10:43:46Z" data-provider="getTestData" finished-at="2019-08-02T10:43:47Z">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="159" started-at="2019-08-02T09:50:45Z" finished-at="2019-08-02T09:50:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="117" started-at="2019-08-02T10:43:47Z" finished-at="2019-08-02T10:43:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1543" started-at="2019-08-02T09:50:45Z" finished-at="2019-08-02T09:50:47Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1677" started-at="2019-08-02T10:43:47Z" finished-at="2019-08-02T10:43:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="372" started-at="2019-08-02T09:50:47Z" data-provider="getTestData" finished-at="2019-08-02T09:50:47Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="411" started-at="2019-08-02T10:43:48Z" data-provider="getTestData" finished-at="2019-08-02T10:43:49Z">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="71" started-at="2019-08-02T09:50:47Z" finished-at="2019-08-02T09:50:47Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="86" started-at="2019-08-02T10:43:49Z" finished-at="2019-08-02T10:43:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1410" started-at="2019-08-02T09:50:47Z" finished-at="2019-08-02T09:50:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="setUp" is-config="true" duration-ms="1502" started-at="2019-08-02T10:43:49Z" finished-at="2019-08-02T10:43:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="763" started-at="2019-08-02T09:50:49Z" data-provider="getTestData" finished-at="2019-08-02T09:50:49Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="login" duration-ms="849" started-at="2019-08-02T10:43:50Z" data-provider="getTestData" finished-at="2019-08-02T10:43:51Z">
           <params>
             <param index="0">
               <value>
@@ -123,11 +123,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="267" started-at="2019-08-02T09:50:49Z" finished-at="2019-08-02T09:50:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataprovider.io.test.DataproviderCheck1@5e5792a0]" name="tearDown" is-config="true" duration-ms="168" started-at="2019-08-02T10:43:51Z" finished-at="2019-08-02T10:43:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- dataprovider.io.test.DataproviderCheck1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
